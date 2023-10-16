@@ -1,5 +1,5 @@
 {
-  "name": "first-node-application",
+  "name": "first-node-app",
   "version": "1.0.0",
   "description": "my first node application for stef",
   "main": "index.js",
@@ -13,9 +13,9 @@
   "author": "stef",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/malfoy200/first-node-application/issues"
+    "url": "https://github.com/malfoy200/first-node-app/issues"
   },
-  "homepage": "https://github.com/malfoy200/first-node-application#readme",
+  "homepage": "https://github.com/malfoy200/first-node-appl#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
